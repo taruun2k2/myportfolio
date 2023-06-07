@@ -1,0 +1,48 @@
+.logo-container {
+    z-index: 1;
+    width: 280px;
+    height: 410px;
+
+    
+    position: absolute;
+    top: 0;
+    right: 5%;
+    bottom: 0;
+    left: 16%;
+    margin: auto;
+  
+    // svg {
+    //   width: 100%;
+    //   height: auto;
+    //   bottom: 0;
+    // //   transform: rotateZ(30deg) !important;
+    // }
+  
+    .solid-logo {
+      position: absolute;
+      top: auto;
+      right: auto;
+      bottom: auto;
+      
+      margin: auto;
+      width: 100%;
+      
+    //   transform: rotateZ(30deg) !important;
+      z-index: 1;
+      &:hover {
+        position: absolute;
+        transition: .2s ease-out;
+        top: auto ;
+        right: auto ;
+        bottom: auto ;
+        
+        margin: auto;
+        width: 110%;
+        
+      }
+    }
+
+
+  }
+  
+  

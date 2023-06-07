@@ -1,0 +1,47 @@
+{
+    "portfolio":[
+        {
+            "cover": "https://cdn.dribbble.com/userupload/7608671/file/original-a7e5e615417a7d03b14f93edd502e9ec.png?compress=1&resize=1024x515",
+            "title": "GPT-3",
+            "description": "OpenAI Website",
+            "url": "https://taruun2k2.github.io/gpt3/"
+        },
+        {
+            "cover": "https://cdn.dribbble.com/userupload/7608720/file/original-58acfdf6dbe0217d6ef8397c312a453e.png?compress=1&resize=1024x523",
+            "title": "Gericht",
+            "description": "Fine Dining Restaurant",
+            "url": "https://taruun2k2.github.io/restaurant/"
+        },
+        {
+            "cover": "https://cdn.dribbble.com/userupload/7608774/file/original-1fdde4e23084cf49d7063d99be110ba9.png?compress=1&resize=752x553",
+            "title": "Hoobank",
+            "description": "Future of Banking",
+            "url": "https://bankux.netlify.app/"
+        },
+        
+        {
+            "cover": "https://cdn.dribbble.com/users/7372158/screenshots/15951376/media/76a7044833d5089de33c0438ae56d33d.png?compress=1&resize=768x576&vertical=center",
+            "title": "TL travel",
+            "description": "Mockup Landing Page",
+            "url": "https://dribbble.com/Taruun"
+        },
+        {
+            "cover": "https://cdn.dribbble.com/users/7372158/screenshots/15994777/media/8dd6c514671aba23691288ee591df66c.png?compress=1&resize=768x576&vertical=center",
+            "title": "Bars",
+            "description": "Mockup Music Player",
+            "url": "https://dribbble.com/Taruun"
+        },
+        {
+            "cover": "https://cdn.dribbble.com/users/7372158/screenshots/16026823/media/95392068d5e924564936eb24628c8296.png?compress=1&resize=768x576&vertical=center",
+            "title": "E-Commerce Website",
+            "description": "Mockup Product Page",
+            "url": "https://dribbble.com/Taruun"
+        },
+        {
+            "cover": "https://cdn.dribbble.com/users/7372158/screenshots/15936336/media/0f01f91db7d0a0553c4dc2e361448e29.png?compress=1&resize=768x576&vertical=center",
+            "title": "Cafe App",
+            "description": "Mockup Product Page",
+            "url": "https://dribbble.com/Taruun"
+        }
+    ]
+}
