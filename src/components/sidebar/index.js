@@ -10,7 +10,7 @@ import { faDribbble, faGithub, faLinkedin } from '@fortawesome/free-brands-svg-i
 
 const Sidebar = () =>  (
     <div className='nav-bar'>
-        <Link className='logo' to='/'>
+        <Link className='logo' to='/myportfolio'>
         <img src={LogoT}  alt="logo" />
         <img className='sub' src={sub}  alt="sub" />  
         </Link>

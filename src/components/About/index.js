@@ -26,22 +26,27 @@ const About = () => {
           <AnimatedLetters 
              letterClass={letterClass}
              strArray={['A','b','o','u','t',' ','M','e']}
-             idx={15}
-          />
+             idx={15}/>
         </h1>
+        <div className="content">
         <p>
-          I'm a very ambitious front-end developer looking for a role in an established company with the opportunity to work with the latest technologies on challenging and diverse projects
+        Welcome to my portfolio website! I am an aspiring frontend developer and UI designer passionate about creating beautiful and user-friendly digital experiences. With a keen eye for detail and a deep understanding of the latest design trends and web technologies, I strive to deliver seamless and visually appealing interfaces that enhance the user's journey.
         </p>
         <p>
-          I'm creative, enthusiastic, confident and more over humble perpetually working on improving my chops one design problem at a time
-        </p>
-        <p>
-          If I need to define myself in one sentence that would be 'A creative design enthusiast with frontend skills who wants to create visually stunning and user friendly ergonomic designs'.
+        I possess a strong command of HTML, CSS, and JavaScript, allowing me to create and develop web applications with precision and attention to detail.In the realm of design, I am skilled in utilizing industry-standard software such as Adobe XD, Figma, Illustrator, and Photoshop. These tools enable me to conceptualize and craft visually appealing designs, create captivating icons, and manipulate images to align with project requirements.
+       </p>
+       <p>
+       Collaboration is at the heart of my work, and I thrive in multidisciplinary teams, collaborating closely with developers, UX designers, and stakeholders to create exceptional products. I believe that effective communication and a holistic understanding of the project goals are key to delivering successful outcomes.
+       </p>
+       <p>
+       Please take a moment to explore my portfolio, where you will find examples of my frontend development and UI design work. Feel free to reach out and let's create something amazing together!
         </p>
         <p>
         "Design adds value faster than it adds costs." <br />
               -- Joel Spolsky creator of Trello
         </p>
+        </div>
+        
 
       </div>
         <div className='stage-cube-cont'>
